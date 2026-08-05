@@ -1,0 +1,76 @@
+====================================================
+        NOVA DYNAMICS INC. — COMPANY HANDBOOK
+====================================================
+
+ABOUT US
+--------
+Nova Dynamics Inc. was founded in 2019 by Dr. Elena Vasquez and Marcus
+Chen in Austin, Texas. Our mission is to make smart-home technology
+accessible and affordable for every household. As of 2025, we have
+over 350 employees across three offices: Austin (HQ), Denver, and
+Toronto.
+
+PRODUCTS
+--------
+
+1. NovaSphere Hub — $129.99
+   The central smart-home controller. Connects up to 75 devices via
+   Wi-Fi 6E, Zigbee, and Thread protocols. Includes a 5-inch
+   touchscreen, built-in voice assistant, and energy monitoring
+   dashboard. Requires a one-time setup fee of $0 (free installation
+   through our app).
+
+2. NovaGuard Security Kit — $249.99
+   Includes 2 indoor cameras (1080p, night vision), 1 doorbell camera
+   (2K resolution), 3 door/window sensors, and a motion detector.
+   Monthly cloud storage plan: $4.99/month for 30-day video history.
+   No contract required — cancel anytime.
+
+3. NovaClimate Thermostat — $89.99
+   AI-powered thermostat that learns your schedule. Saves up to 23%
+   on energy bills (based on internal testing). Compatible with all
+   major HVAC systems. Supports geofencing for automatic temperature
+   adjustments.
+
+4. NovaGlow Smart Lighting Starter Pack — $59.99
+   Includes 4 color-changing LED bulbs (16 million colors, 800
+   lumens each) and 1 smart dimmer switch. Works with NovaSphere Hub
+   or standalone via the NovaGlow app.
+
+RETURN & REFUND POLICY
+-----------------------
+- All products may be returned within 30 days of delivery for a full
+  refund, provided they are in original packaging and unused condition.
+- Products returned between 31 and 60 days of delivery are eligible
+  for a 75% refund or full store credit.
+- After 60 days, no refunds are offered. Warranty claims must be filed
+  instead.
+- Refund processing takes 5–10 business days after we receive the
+  returned item.
+- Shipping costs for returns are covered by Nova Dynamics for defective
+  items. For non-defective returns, the customer pays return shipping
+  (estimated $8.95 flat rate within the US).
+- Subscription services (e.g., NovaGuard cloud storage) can be
+  cancelled anytime with a prorated refund for the remaining month.
+
+WARRANTY
+--------
+All hardware products carry a 2-year limited warranty covering
+manufacturing defects. The warranty does NOT cover damage from misuse,
+water exposure, or unauthorized modifications. To file a warranty
+claim, contact support@novadynamics.com with your order number and a
+description of the issue.
+
+BUSINESS HOURS & CONTACT
+--------------------------
+- Customer Support: Monday–Friday, 8:00 AM – 8:00 PM CT
+- Weekend Support: Saturday–Sunday, 10:00 AM – 4:00 PM CT
+- Email: support@novadynamics.com
+- Phone: 1-800-NOVA-DYN (1-800-668-2396)
+- Live Chat: Available on novadynamics.com during business hours
+
+EMPLOYEE DISCOUNT
+-----------------
+All full-time employees receive a 30% discount on Nova Dynamics
+products. Part-time employees receive a 15% discount after 90 days
+of employment. Discounts cannot be combined with other promotions.
